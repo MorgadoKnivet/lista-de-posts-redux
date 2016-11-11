@@ -26,7 +26,7 @@ react-native run-android
 
 #### Runtime Development Server
 
-Ás vezes o runtime development server não roda inicialmente. Para abrir o React package manager, execute o comando seguinte:
+Às vezes o runtime development server não roda inicialmente. Para abrir o React package manager, execute o comando seguinte:
 
 ```sh
 npm start

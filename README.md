@@ -10,13 +10,13 @@ Execute o npm para instalar as dependências:
 npm install
 ```
 
-Para rodar o aplicativo no iOS:
+Para rodar o aplicativo no **iOS**:
 
 ```sh
 react-native run-ios
 ```
 
-Para rodar o aplicativo no Android:
+Para rodar o aplicativo no **Android**:
 
 ```sh
 react-native run-android
